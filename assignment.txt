@@ -1,0 +1,26 @@
+100000 
+
+1. Add more money 2. Withdraw 3. Check balance
+
+1. Enter the amount you want to add 20000
+    120000
+
+2. Withdraw money
+    if (amountEntered <= balance):
+        perform task
+    else:
+        print("Insufficient fund")
+        
+    Enter the amount you want to Withdraw 20000
+    60000
+3. Check balance
+    80000
+
+Do you want to any other transaction 1. Yes 2. No
+1. 
+2. Thanks for banking with us.
+    BYE!
+
+
+Tip calculator
+
