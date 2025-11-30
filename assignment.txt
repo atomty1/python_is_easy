@@ -24,3 +24,26 @@ Do you want to any other transaction 1. Yes 2. No
 
 Tip calculator
 
+
+1, Open account
+2. To login
+3. Print all user info
+4. Exit
+
+1. firstname
+    lastname
+    email
+    password
+
+
+1234567890
+1023456789
+1204
+2. email/account_number
+    password
+    print("welcome, firstname lastname, you have #50000 in your account")
+    1. To do any other thing
+    2. To logout
+
+3. 
+4. Bye
