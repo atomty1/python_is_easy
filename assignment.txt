@@ -42,8 +42,23 @@ Tip calculator
 2. email/account_number
     password
     print("welcome, firstname lastname, you have #50000 in your account")
-    1. To do any other thing
-    2. To logout
+    1. To Transfer
+    2. To check balance
+    3. TO change my info
+    4. Logout
+
 
 3. 
 4. Bye
+
+After logging in
+1. Account number / email of the recipient
+    amount to send
+    password
+    #10000 has been transferred to Taye
+
+2. You have #1000 in your account
+3. key
+    value
+4. Logout
+ How are you doing?
