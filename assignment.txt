@@ -62,3 +62,15 @@ After logging in
     value
 4. Logout
  How are you doing?
+
+
+ Librarian
+    firstname, 
+
+ Library
+    add a new book
+    remove a book (1)
+    display all books
+    display a particular book (0)
+Book
+    name, author, pages
