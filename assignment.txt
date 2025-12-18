@@ -74,3 +74,13 @@ After logging in
     display a particular book (0)
 Book
     name, author, pages
+
+
+card
+    name, id, amount, pin
+
+Person
+    name, cards
+
+Bus
+    
